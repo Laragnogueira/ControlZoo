@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "ControlZoo",
+    "slug": "ControlZoo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/controlzoo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#88CBCB"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.controllzoo.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/controlzoo.png",
+        "backgroundColor": "#88CBCB"
+      },
+      "package": "com.controlzoo.app",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/controlzoo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "faa95320-bb80-44af-86ef-29b5874cd840"
+      }
+    }
+  }
+}
