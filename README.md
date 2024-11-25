@@ -1,4 +1,4 @@
-#ControlZoo
+# ControlZoo
 
 <div style="background-color: #88CBCB; padding: 20px; text-align: center;">
   <img src="./assets/controlzoo.png" alt="ControlZoo" style="max-width: 100px;">
