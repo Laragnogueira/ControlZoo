@@ -1,6 +1,8 @@
 #ControlZoo
 
-![ControlZoo](./assets/controlzoo.png)
+<div style="background-color: #88CBCB; padding: 20px; text-align: center;">
+  <img src="./assets/controlzoo.png" alt="ControlZoo" style="max-width: 100px;">
+</div>
 
 ControlZoo é um aplicativo mobile para gerenciar a carteira de vacinação dos seus pets. Este projeto foi desenvolvido usando React Native e Expo.
 
